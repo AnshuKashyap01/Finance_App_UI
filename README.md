@@ -35,3 +35,5 @@ Ready to see it in action? Follow these simple steps:
 
 1.  **Clone the Magic ✨:**
     
+
+//All features will be added in future.It is still in developement phase
